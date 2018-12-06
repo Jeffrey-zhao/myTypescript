@@ -1,0 +1,2 @@
+# myTypescript
+just learning
